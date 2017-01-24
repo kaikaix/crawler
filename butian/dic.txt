@@ -1,0 +1,11 @@
+admin
+ad
+ad_login
+webadmin
+web_admin
+admin_login
+adminlogin
+admin_index
+manage
+web_manage
+
